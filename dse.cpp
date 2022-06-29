@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <Windows.h>
 #include <conio.h>
-//hehe
+//hehes
 int step_x = 18, step_y = 9  ;
 void omokpan(int s[][20]){
 	for(int i = 0 ; i < 20 ; i++){
